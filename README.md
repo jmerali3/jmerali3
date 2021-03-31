@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jameel Merali
-- 👀 I’m interested in statistics, machine learning, data analytis, & data visualization 
+- 👀 I’m interested in statistics, machine learning, data analytics, & data visualization 
 - 🌱 I’m currently learning through MITx!
 - 📫 How to reach me - jameelmerali1992@gmail.com
 
